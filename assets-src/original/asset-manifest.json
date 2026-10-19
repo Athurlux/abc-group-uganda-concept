@@ -1,0 +1,341 @@
+{
+  "date": "2026-10-19",
+  "delivery": "Full-dimension WebP masters, web variants, and optimised company-site references. Source URLs preserved. Original PNG generations and duplicate source files omitted.",
+  "files": [
+    {
+      "file": "ASSET_INDEX.html",
+      "bytes": 5069,
+      "sha256": "32834cf8c50d803bcb9103f118272c60d66a8a55c1b197e44af84bd699d9517a"
+    },
+    {
+      "file": "AUTHENTIC_REFERENCE_SHEET.jpg",
+      "bytes": 151415,
+      "sha256": "623036c6aac1b37581927e3af16828ad55f25dd1a17422fcf2a6fc8041eccfb0"
+    },
+    {
+      "file": "CONTACT_SHEET.jpg",
+      "bytes": 239937,
+      "sha256": "4440cac32abb25e979abfeb60b2eff276943d70537c467d28ede0bee22472208"
+    },
+    {
+      "file": "README_START_HERE.md",
+      "bytes": 1423,
+      "sha256": "e481d95d8a98c90dd25377ac3849b65d91cbaa1f000d27de27a8f823104e4a74"
+    },
+    {
+      "file": "authentic/source-register.json",
+      "bytes": 18103,
+      "sha256": "5559a02155855da5c5cd56a279e2f06517f54c546abc3a146d2922a6041cb0ca"
+    },
+    {
+      "file": "authentic/web/abc-official-logo.webp",
+      "bytes": 4946,
+      "sha256": "89aea7dfe29d76a3a23450e35864316f29eb3847e66c628b4f3023728b156d25"
+    },
+    {
+      "file": "authentic/web/about-us-01.webp",
+      "bytes": 51688,
+      "sha256": "7ecd377d3c14a2ea062ff866759de132a64dbd2401aa564a2c9762c92fc9c946"
+    },
+    {
+      "file": "authentic/web/about-us-02.webp",
+      "bytes": 49710,
+      "sha256": "7e0e950427bbd7479c58fe12b9853ea09bee0738fa55d2052619b03ea531c367"
+    },
+    {
+      "file": "authentic/web/about-us-03.webp",
+      "bytes": 60574,
+      "sha256": "18a470023e6918e3d16e322fcf63911716e8a66dfb53bd4ebb60a3ed19e2caf4"
+    },
+    {
+      "file": "authentic/web/concealed-cistern-01.webp",
+      "bytes": 3042,
+      "sha256": "041bdda0b9471035345ac20ab69d1c52109ae6197fc4d48070f2674ac463d2bf"
+    },
+    {
+      "file": "authentic/web/concealed-cistern-02.webp",
+      "bytes": 13028,
+      "sha256": "484620ba63162aeb6b31fb9b920c75e0b11641a8a3bfae0002d0f9a5da95eb63"
+    },
+    {
+      "file": "authentic/web/grout-adhesive-01.webp",
+      "bytes": 50156,
+      "sha256": "e464465d45895745e90c6c7d234f90d92a570e189535935b9225ff88bf140a05"
+    },
+    {
+      "file": "authentic/web/grout-adhesive-02.webp",
+      "bytes": 44582,
+      "sha256": "810f2c8edd94703cff8f888d46c82a1bfcc9e3fb1c748d16c2b25df7a48709aa"
+    },
+    {
+      "file": "authentic/web/kitchensinks-01.webp",
+      "bytes": 25264,
+      "sha256": "601fd548cc962e7f66d4cd74e04e1f632fc88c507c826c635beeec3f68ddfd5b"
+    },
+    {
+      "file": "authentic/web/kitchensinks-02.webp",
+      "bytes": 54366,
+      "sha256": "8ca748b969011c67989a39dc8ef1753d1787fc779f228037147a1623277fc1c7"
+    },
+    {
+      "file": "authentic/web/sanitaryware-01.webp",
+      "bytes": 2732,
+      "sha256": "af2c2382279151ddaa003bfb4d28140e6bf732e0f96a0b063af7fe0f136bb69e"
+    },
+    {
+      "file": "authentic/web/sanitaryware-02.webp",
+      "bytes": 58488,
+      "sha256": "cab9fb1ae4a4351249b631697d1f0752208de388a6bfa580d8bf4d41c4738a37"
+    },
+    {
+      "file": "authentic/web/sanitaryware-03.webp",
+      "bytes": 8540,
+      "sha256": "6f7ecf6d46df543d3816874f674bca22017c005be37eee2e2686b162813eeb85"
+    },
+    {
+      "file": "authentic/web/sanitaryware-04.webp",
+      "bytes": 20068,
+      "sha256": "61bf98f5372701efb92d40dc32a8821ae214a392f1ef2a6707060a7c69cf5017"
+    },
+    {
+      "file": "authentic/web/tiles-01.webp",
+      "bytes": 30904,
+      "sha256": "f0fb9e0a170fc4d46b39db56c7cc8bb0fca386c2733a7e0ffeb69ec3430147ad"
+    },
+    {
+      "file": "authentic/web/tiles-02.webp",
+      "bytes": 21266,
+      "sha256": "4f2e541c47ab5295c43ce296cbd38d05bb0fe809b5b3d828a85d3db6c0f982bc"
+    },
+    {
+      "file": "authentic/web/vox-panels-01.webp",
+      "bytes": 69700,
+      "sha256": "f16eff8c349309fd8ffb63ed904b3d08bf751d15bf37b3352fcad338eb15b7f9"
+    },
+    {
+      "file": "authentic/web/vox-panels-02.webp",
+      "bytes": 102180,
+      "sha256": "4c829404d0e04c8815ef29b060a545c8b7e7e46bb18046135b1688e28b3807d5"
+    },
+    {
+      "file": "branding/abc-published-logo.png",
+      "bytes": 4603,
+      "sha256": "cdc79ab4f0591334dec99b745cc28a4870fc8a9465589a63cb2392656e462b2b"
+    },
+    {
+      "file": "branding/favicon-concept.svg",
+      "bytes": 302,
+      "sha256": "2d33cac23edc8ba6cb48e1871d06986c817a98c740703901befa978c32bfe336"
+    },
+    {
+      "file": "data/catalogue-starter.json",
+      "bytes": 4390,
+      "sha256": "ffc0721c3359b35991499e2e4cac6819ee60970b8e1ee4fe5c26883350da703e"
+    },
+    {
+      "file": "data/collection-guide.json",
+      "bytes": 978,
+      "sha256": "80e0abcc95c32e669b1ff36727ab3cb792d5b12a33a573737dce7f0ebbed56b3"
+    },
+    {
+      "file": "data/design-tokens.json",
+      "bytes": 1034,
+      "sha256": "1e685d88fb24268579b2cb4c77617fde3cfdc57288f868356bcb9fadd2540ee4"
+    },
+    {
+      "file": "data/locations-reference.json",
+      "bytes": 1273,
+      "sha256": "95335223e9d776a38e45614c89b64341a037ee98108e5500cb5083344eface8c"
+    },
+    {
+      "file": "guides/ASSET_MAP_AND_MOTION.md",
+      "bytes": 2710,
+      "sha256": "699a05339efb8f6cfe5676ee3f1a43871165dc06c831121a77fc62159f60fba2"
+    },
+    {
+      "file": "guides/CONTENT_AND_PROVENANCE.md",
+      "bytes": 2824,
+      "sha256": "e9004998bac110a910e92c711dd2b2cc8b4360725692475b68d77f2ff15924df"
+    },
+    {
+      "file": "guides/GENERATION_PROMPTS.json",
+      "bytes": 5376,
+      "sha256": "975833e18354f6213ea1c91800ac3e3ea46f3f19b2ca96009b8fef5ae0c8c1ef"
+    },
+    {
+      "file": "guides/VISUAL_REVIEW_NOTES.md",
+      "bytes": 1291,
+      "sha256": "48a01c461c5a5c080a951db6ec174a9c711809c7ec604a2cc850b0a7c0ae9736"
+    },
+    {
+      "file": "icons/bath.svg",
+      "bytes": 274,
+      "sha256": "d118862ea70766abda4d8ce84798e19d68d2647de53fb7a0999f70e439a7c96d"
+    },
+    {
+      "file": "icons/collections.svg",
+      "bytes": 254,
+      "sha256": "ea267c3c1c3cd4128bad2632c14794f53e1ef57e74107f7aaaf821d6bfe914cb"
+    },
+    {
+      "file": "icons/material.svg",
+      "bytes": 244,
+      "sha256": "21cb10cc5e3bfdf5d9c3c70ba4ed6929b15d85823385b670a255263693d0bc21"
+    },
+    {
+      "file": "icons/measure.svg",
+      "bytes": 239,
+      "sha256": "4259825f8feed7d6c25424302e5ed8d51045a774081a9c1fd8cf766ba9505bde"
+    },
+    {
+      "file": "icons/professional.svg",
+      "bytes": 249,
+      "sha256": "eeaa6c43838b9a75f7530c1797b0f28140a2bd3a0739026f5da0a96722e48ee2"
+    },
+    {
+      "file": "icons/quote.svg",
+      "bytes": 238,
+      "sha256": "8ce24eef40ff733dd0cb95f631a5e0522c31a88749d87c440672c7a58c7cda18"
+    },
+    {
+      "file": "icons/shortlist.svg",
+      "bytes": 222,
+      "sha256": "95ac17df674e3314944612e68d825d9abe43b94e10f51e97aa30ce0abef05b58"
+    },
+    {
+      "file": "icons/showroom.svg",
+      "bytes": 238,
+      "sha256": "098e2501a396bb2961e7550b243d4e331cba79e8f3d5245cc0ef2b2a52425ef8"
+    },
+    {
+      "file": "inspiration/master/bathroom-inspiration.webp",
+      "bytes": 237166,
+      "sha256": "2600877f958090eff4fc5ff667e2b1b5786d83cb0a28ccc69cb2dc414895ac33"
+    },
+    {
+      "file": "inspiration/master/fittings-detail.webp",
+      "bytes": 93370,
+      "sha256": "ebe383efb05bedcf1f921115fac5571381b51d7d493f69b26ec729003af88b01"
+    },
+    {
+      "file": "inspiration/master/hero-desktop.webp",
+      "bytes": 188926,
+      "sha256": "cceeef6b034cad61687b68be718e744e8ac480e996b1035f882fa05d76b6822b"
+    },
+    {
+      "file": "inspiration/master/hero-mobile.webp",
+      "bytes": 154424,
+      "sha256": "461dee7c7e4de050b6ca9a48970604b31d71890cf59978b19a3502cfeb1b1183"
+    },
+    {
+      "file": "inspiration/master/kitchen-inspiration.webp",
+      "bytes": 169552,
+      "sha256": "d6ff0853952b02c5ae8ddfb7e9f8ad7c71b4e6df38dcb81b9b11238c9ea1f6f5"
+    },
+    {
+      "file": "inspiration/master/living-flooring.webp",
+      "bytes": 259322,
+      "sha256": "0e3bc048ae49a9f4837285410ad980bccfadc77916825e77943f9d1102cd0cf8"
+    },
+    {
+      "file": "inspiration/master/material-board.webp",
+      "bytes": 249878,
+      "sha256": "009db458bf75e9f73cb10bc1b6b95a7f54e8b709f6c6e8d221b3101cb1f7d531"
+    },
+    {
+      "file": "inspiration/master/texture-charcoal.webp",
+      "bytes": 324018,
+      "sha256": "1076c1ea29387515bb13c9f6517464107411f0cbc90ee9944b40701dd5835fc0"
+    },
+    {
+      "file": "inspiration/master/texture-limestone.webp",
+      "bytes": 255096,
+      "sha256": "8006a54cf10fa295d96b89b9b07ccf9315ff5716f05539943ddf9edea51d2e9b"
+    },
+    {
+      "file": "inspiration/master/texture-marble.webp",
+      "bytes": 73152,
+      "sha256": "69448a280fcbfd2d81461ca37c10f30928251059502d1ba61ecb1685cfa01ffc"
+    },
+    {
+      "file": "inspiration/master/texture-walnut.webp",
+      "bytes": 122896,
+      "sha256": "f7f33c89658a9ad50f890fc174a9ff185bfb18b6c8d6d29a23b37fb3b2b92f1d"
+    },
+    {
+      "file": "inspiration/master/wall-panels-inspiration.webp",
+      "bytes": 131360,
+      "sha256": "6a3b6bee63aed9d6b6f8474724760f95926b93c16687c7d5ade0d653500b7602"
+    },
+    {
+      "file": "inspiration/web/bathroom-inspiration.webp",
+      "bytes": 55110,
+      "sha256": "ca1e6d1bc80ad3d89e89fb2b6bc5da022cc0fa79b0141e85186b346640e1cf2b"
+    },
+    {
+      "file": "inspiration/web/fittings-detail.webp",
+      "bytes": 37450,
+      "sha256": "24fd270afcdeed23db5aac09eb393a37042bf321c9d80a9b0993d68043e56577"
+    },
+    {
+      "file": "inspiration/web/hero-desktop.webp",
+      "bytes": 49598,
+      "sha256": "715d86d1ff0e039abf1f3c6b37e9afdaa7a169927bbd2acdbea06d4a945bf1d5"
+    },
+    {
+      "file": "inspiration/web/hero-mobile.webp",
+      "bytes": 80040,
+      "sha256": "4ada471cf2eff4de1fb68bfbdb0a4d023c28aaad8f7e7df76ca3a8ce6a68083c"
+    },
+    {
+      "file": "inspiration/web/kitchen-inspiration.webp",
+      "bytes": 46354,
+      "sha256": "df9043e044831b0ce5e38cbc3ad3869d8c098e5ffb7bddf1b98f6c70ff771d35"
+    },
+    {
+      "file": "inspiration/web/living-flooring.webp",
+      "bytes": 53650,
+      "sha256": "38f6f05e24198890bee285e08de37a55700673719dea30876ad02c63b657868e"
+    },
+    {
+      "file": "inspiration/web/material-board.webp",
+      "bytes": 45434,
+      "sha256": "52aa15d89947175a04098ba34f5d2b36a47da5588a615cbb1b658f525bec5baf"
+    },
+    {
+      "file": "inspiration/web/texture-charcoal.webp",
+      "bytes": 91836,
+      "sha256": "b6e7a5760df18c187ddc195d33d42d318b13a2188998aa3bf0f73e9b433a710c"
+    },
+    {
+      "file": "inspiration/web/texture-limestone.webp",
+      "bytes": 66080,
+      "sha256": "dcf983ae922479784d94a9e024e4d794dc613184681dfdaab5fe9b0610b40d6e"
+    },
+    {
+      "file": "inspiration/web/texture-marble.webp",
+      "bytes": 27244,
+      "sha256": "79aacea342535a231848e32dff8d82109cc8eecc1e216d1d24791d4490911105"
+    },
+    {
+      "file": "inspiration/web/texture-walnut.webp",
+      "bytes": 36668,
+      "sha256": "a9db6011620041d78ea1e729c070d4d18c7d61c726c94d14426be3a4ac81c32a"
+    },
+    {
+      "file": "inspiration/web/wall-panels-inspiration.webp",
+      "bytes": 34774,
+      "sha256": "cf958c3a16df057bb8628126a8196fc4c5547657ec850c09c7f17f2632410367"
+    },
+    {
+      "file": "social/social-preview.jpg",
+      "bytes": 105388,
+      "sha256": "ab397e46df2b55aecbf289a88d515974556cd5e3eaa0180eed8fcb72c7cfe405"
+    },
+    {
+      "file": "social/social-square.jpg",
+      "bytes": 136884,
+      "sha256": "80a59569b1f019847bcae524c46be6ffd734677526ba0f6c06ca747145418f01"
+    }
+  ]
+}

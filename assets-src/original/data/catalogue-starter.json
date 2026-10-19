@@ -1,0 +1,122 @@
+{
+  "policy": "Descriptive references only; null values are intentional, never fill by guessing. Check source-register visual notes before use.",
+  "items": [
+    {
+      "id": "sanitaryware-01",
+      "display_name": "White wall-hung toilet",
+      "image": "authentic/web/sanitaryware-01.webp",
+      "source_page": "https://abcgroupuganda.com/sanitaryware/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    },
+    {
+      "id": "sanitaryware-02",
+      "display_name": "White pedestal basin; source alt says rectangular basin",
+      "image": "authentic/web/sanitaryware-02.webp",
+      "source_page": "https://abcgroupuganda.com/sanitaryware/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    },
+    {
+      "id": "sanitaryware-03",
+      "display_name": "Gold-tone mixer; source alt says chrome faucet",
+      "image": "authentic/web/sanitaryware-03.webp",
+      "source_page": "https://abcgroupuganda.com/sanitaryware/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    },
+    {
+      "id": "sanitaryware-04",
+      "display_name": "Rectangular spa bathtub with transparent side; source alt says oval bathtub",
+      "image": "authentic/web/sanitaryware-04.webp",
+      "source_page": "https://abcgroupuganda.com/sanitaryware/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    },
+    {
+      "id": "grout-adhesive-01",
+      "display_name": "Laticrete-marked pail as published; verify exact product name from original",
+      "image": "authentic/web/grout-adhesive-01.webp",
+      "source_page": "https://abcgroupuganda.com/grout-adhesive/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    },
+    {
+      "id": "grout-adhesive-02",
+      "display_name": "MYK Laticrete-marked bag as published; verify exact grade",
+      "image": "authentic/web/grout-adhesive-02.webp",
+      "source_page": "https://abcgroupuganda.com/grout-adhesive/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    },
+    {
+      "id": "concealed-cistern-02",
+      "display_name": "Geberit-marked concealed cistern frame; exact model unspecified",
+      "image": "authentic/web/concealed-cistern-02.webp",
+      "source_page": "https://abcgroupuganda.com/concealed-cistern/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    },
+    {
+      "id": "kitchensinks-01",
+      "display_name": "Single-bowl sink in counter",
+      "image": "authentic/web/kitchensinks-01.webp",
+      "source_page": "https://abcgroupuganda.com/kitchensinks/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    },
+    {
+      "id": "kitchensinks-02",
+      "display_name": "Double-bowl sink in counter",
+      "image": "authentic/web/kitchensinks-02.webp",
+      "source_page": "https://abcgroupuganda.com/kitchensinks/",
+      "brand": null,
+      "model": null,
+      "price": null,
+      "dimensions": null,
+      "stock": null,
+      "technical_specifications": null,
+      "status": "Company-site gallery reference; details require confirmation"
+    }
+  ]
+}

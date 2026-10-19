@@ -1,0 +1,50 @@
+[
+  {
+    "key": "hero-desktop",
+    "prompt": "Wide landscape premium architectural editorial photograph for an interiors and building materials supplier website. Contemporary tropical Kampala-inspired residence, warm limestone-look large-format tiled floor, textured ivory wall on left 40 percent kept quiet for live headline, sculptural walnut furniture on right, subtle bronze details, huge glazing overlooking lush tropical garden, dramatic afternoon sunlight and believable shadows. Architectural Digest quality, photorealistic craftsmanship, no people text logos or watermarks. Not a real named property. 1536x1024."
+  },
+  {
+    "key": "hero-mobile",
+    "prompt": "Portrait premium architectural editorial photograph for luxury interiors supplier mobile hero. Tall warm ivory plaster wall in upper 40 percent clean negative space for live text, below a sculptural bronze side table and walnut lounge chair on large-format warm limestone-look floor, tropical garden through tall glazing at right, tactile refined calm contemporary East African home, realistic sunlight, no people logos text. Not a real property. 1024x1536."
+  },
+  {
+    "key": "bathroom-inspiration",
+    "prompt": "Landscape premium architectural photograph of contemporary spa bathroom, full-height warm travertine-look tiled wall, freestanding white oval bathtub, double walnut floating vanity, two unbranded white vessel basins and brushed bronze taps, proper plumbing geometry, walk-in shower behind clear glass, tropical greenery outside, sophisticated natural daylight, no logos people text. Illustrative fictional room no real brand attribution."
+  },
+  {
+    "key": "kitchen-inspiration",
+    "prompt": "Landscape premium architectural photograph of contemporary tropical kitchen, walnut lower cabinets ivory upper cabinets, pale stone island, visibly integrated unbranded stainless sink and simple brushed steel tap, warm large-format floor tiles, daylight from garden, functional credible joinery and proportions, refined Ugandan luxury residence inspiration, no logos people text. Not a real branded kitchen."
+  },
+  {
+    "key": "living-flooring",
+    "prompt": "Landscape premium architectural interiors photograph emphasizing a beautiful broad expanse of warm grey stone-look tiled floor with realistic subtle grout joints in contemporary living room, ivory curved sofa and walnut furniture held to far side, lush garden beyond glass, warm muted bronze charcoal limestone palette, natural shadows, no logos text people."
+  },
+  {
+    "key": "wall-panels-inspiration",
+    "prompt": "Landscape premium architectural photograph showing contemporary walnut-tone vertical slatted feature wall and restrained ivory ceiling panels in elegant residential entry lounge, low charcoal bench pale stone tile floor brass detail warm grazing light, subtle tropical foliage, emphasize tactile wall finish, no logos text people. Generic panel application, not a specific manufacturer or actual installation."
+  },
+  {
+    "key": "fittings-detail",
+    "prompt": "Square premium editorial macro photograph of a generic unbranded brushed bronze single-lever bathroom mixer mounted behind an ivory oval basin, water off, warm stone tiled backsplash and walnut edge, realistic metal reflections, sophisticated shallow depth of field, precise credible fixture geometry, no brand marks letters text. Concept mood image not an actual stocked product."
+  },
+  {
+    "key": "material-board",
+    "prompt": "Landscape premium top-down product still life of an interior designer material selection on pale limestone desk: overlapping warm ivory stone-look tile sample, charcoal tile sample, walnut slat sample, small brushed bronze metal square and cream grout swatch, precise tactile edges and soft architectural sunlight, balanced open composition, no packaging text brands logos people. Generic inspiration materials."
+  },
+  {
+    "key": "texture-limestone",
+    "prompt": "Square orthographic straight-on closeup of warm ivory limestone-look surface with delicate mineral grain, very subtle natural variation no dramatic veins, even diffuse light, flat edge-to-edge full frame, no objects edges perspective text logos. High quality photorealistic generic material swatch not an actual SKU, not certified seamless."
+  },
+  {
+    "key": "texture-marble",
+    "prompt": "Square orthographic straight-on closeup of pale ivory marble-look surface with elegant fine warm grey veins and tiny muted gold mineral accents, even diffuse illumination full-frame texture, no objects perspective tiles joints text logos. Photorealistic generic inspiration swatch not actual SKU, not certified seamless."
+  },
+  {
+    "key": "texture-charcoal",
+    "prompt": "Square orthographic straight-on macro of dark charcoal slate-look matte surface, fine tactile mineral grain with subtle layered variation, even diffuse light full frame no perspective no text no logos no objects. Photorealistic generic material inspiration not actual stocked tile, not certified seamless."
+  },
+  {
+    "key": "texture-walnut",
+    "prompt": "Square orthographic straight-on closeup of rich medium walnut wood grain surface, elegant vertical long natural grain, even diffuse illumination full frame, no seams objects text logos or perspective. Photorealistic generic finish inspiration not specific branded panel, not certified seamless."
+  }
+]

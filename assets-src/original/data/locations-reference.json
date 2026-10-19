@@ -1,0 +1,37 @@
+{
+  "checked": "2026-10-19",
+  "source": "https://abcgroupuganda.com/about-us/",
+  "note": "Company-published references; confirm opening hours, warehouse visitor access and appointments before official use. Do not infer map coordinates from names.",
+  "locations": [
+    {
+      "name": "ABC Stiles & Bathz",
+      "address": "JR Complex, Showroom 3, Plot 101, next to New Vision, Jinja Road, Kampala",
+      "phone": "+256708080888",
+      "email": "info@abcgroupuganda.com"
+    },
+    {
+      "name": "ABC Hauz",
+      "address": "Plot 49\u201353, 55 Fifth Street, Industrial Area, Kampala",
+      "phone": "+256752383168",
+      "email": "info@abcgroupuganda.com"
+    },
+    {
+      "name": "ABC Ceramic",
+      "address": "Plot 78\u201384, Sixth Street, Industrial Area, Kampala",
+      "phone": "+256744970000",
+      "email": "info@abcgroupuganda.com"
+    },
+    {
+      "name": "Casa Ceramica",
+      "address": "Chinese Business Hotel Building, Plot 33 Fifth Street, Kampala",
+      "phone": "+256744970000",
+      "email": "info@abcgroupuganda.com"
+    },
+    {
+      "name": "ABC WareHouse",
+      "address": "Plot M875B, Channel Lane, off Old Portbell Road, Wakonko, Kampala",
+      "phone": "+256744554466",
+      "email": "info@abcgroupuganda.com"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "id": "tiles",
+      "name": "Tiles and flooring",
+      "source": "https://abcgroupuganda.com/tiles/"
+    },
+    {
+      "id": "sanitaryware",
+      "name": "Sanitaryware and fittings",
+      "source": "https://abcgroupuganda.com/sanitaryware/"
+    },
+    {
+      "id": "grout-adhesive",
+      "name": "Grout and adhesive",
+      "source": "https://abcgroupuganda.com/grout-adhesive/"
+    },
+    {
+      "id": "concealed-cistern",
+      "name": "Concealed cisterns",
+      "source": "https://abcgroupuganda.com/concealed-cistern/"
+    },
+    {
+      "id": "vox-panels",
+      "name": "Wall and ceiling panels",
+      "source": "https://abcgroupuganda.com/vox-panels/"
+    },
+    {
+      "id": "kitchensinks",
+      "name": "Kitchen sinks",
+      "source": "https://abcgroupuganda.com/kitchensinks/"
+    }
+  ],
+  "policy": "Category references only. No verified SKU catalogue, price list, stock feed, dimensions or certifications are supplied."
+}

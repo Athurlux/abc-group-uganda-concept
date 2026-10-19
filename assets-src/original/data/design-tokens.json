@@ -1,0 +1,24 @@
+{
+  "palette": {
+    "limestone": "#F3EFE6",
+    "charcoal": "#242522",
+    "bronze": "#806344",
+    "paper": "#FCFBF7",
+    "muted": "#68685F",
+    "line": "#D9D3C8",
+    "brandRedSuggested": "#C81020"
+  },
+  "branding": "Use the supplied original logo unchanged. New palette is a proposed website direction, not a replacement corporate identity. The official logo is red; retain that colour. The suggested red token is approximate, not an extracted official standard. Bronze is a supporting material accent.",
+  "typography": {
+    "headings": "DM Sans or Manrope, confident editorial scale",
+    "body": "Inter or DM Sans",
+    "fontFilesIncluded": false
+  },
+  "motion": {
+    "tools": "GSAP + ScrollTrigger when available",
+    "desktop": "Material-to-room image reveal; brief controlled sticky sequence; subtle heading stagger",
+    "mobile": "Normal flow; short reveals, no long pinning",
+    "reducedMotion": "Static fully visible content",
+    "constraints": "No scroll-jacking, autoplay video or heavy WebGL required."
+  }
+}

@@ -1,0 +1,50 @@
+:root {
+  /* From data/design-tokens.json: a proposed website palette, not an official
+     corporate standard. Contrast on limestone: charcoal 14:1, muted 5:1, bronze 4.8:1.
+     ABC red marks the brand only (logo, shortlist badge, active rule), never body text. */
+  --limestone: #f3efe6;
+  --paper: #fcfbf7;
+  --stone: #e9e3d7;
+  --line: #d9d3c8;
+  --line-strong: #b8b0a2;
+  --charcoal: #242522;
+  --charcoal-2: #34352f;
+  --muted: #68685f;
+  --bronze: #806344;
+  --bronze-light: #c9a27a;
+  --on-dark-muted: #bdb8ad;
+  --brand-red: #c81020;
+
+  --danger: #a3261a;
+  --danger-bg: #f8e7e2;
+
+  --font: 'DM Sans Variable', 'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --text-xs: 0.8125rem;
+  --text-sm: 0.9375rem;
+  --text-base: 1.0625rem;
+  --text-lg: 1.1875rem;
+  --text-xl: clamp(1.4rem, 1.2rem + 0.8vw, 1.85rem);
+  --text-2xl: clamp(1.85rem, 1.4rem + 1.8vw, 2.8rem);
+  --text-3xl: clamp(2.3rem, 1.5rem + 3.3vw, 4.4rem);
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+  --space-9: clamp(4rem, 2.5rem + 6vw, 8.5rem);
+
+  --container: 1280px;
+  --gutter: clamp(16px, 4vw, 56px);
+  --header-h: 72px;
+  --focus-ring: 0 0 0 2px var(--limestone), 0 0 0 4px var(--charcoal);
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+@media (max-width: 699px) {
+  :root { --header-h: 64px; }
+}

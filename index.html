@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en-UG">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ABC Group Uganda (concept) · Tiles, sanitaryware and interior materials</title>
+    <meta name="description" content="An independent website redesign concept for ABC Group Uganda: collections, a project shortlist and demo quote, showroom and project journeys. Not ABC's official website; forms send nothing." />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#F3EFE6" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="ABC Group Uganda, independent redesign concept" />
+    <meta property="og:title" content="Materials that make the space: ABC Group Uganda (independent concept)" />
+    <meta property="og:description" content="An independent redesign concept for ABC Group Uganda, by Arthur Kitandwe. Explore collections, build a project shortlist and try the demo quote journey." />
+    <meta property="og:url" content="%VITE_SITE_URL%/" />
+    <meta property="og:image" content="%VITE_SITE_URL%/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="ABC Group Uganda redesign concept preview with a sunlit stone-floored interior" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Materials that make the space: ABC Group Uganda (independent concept)" />
+    <meta name="twitter:description" content="An independent redesign concept for ABC Group Uganda. Demo journeys only; not the official website." />
+    <meta name="twitter:image" content="%VITE_SITE_URL%/og-image.jpg" />
+    <script>
+      // Homepage only: preload the one hero this device will show, and hold the headline
+      // lines until the entrance timeline starts. The timer reveals them if it never does.
+      // Buttons and navigation are never hidden.
+      if (location.pathname === '/') {
+        [['(min-width: 768px)', '/images/hero-desktop-960.webp 960w, /images/hero-desktop-1536.webp 1536w', '(min-width: 1100px) 58vw, 100vw'],
+         ['(max-width: 767px)', '/images/hero-mobile-480.webp 480w, /images/hero-mobile-800.webp 800w', '100vw']].forEach(function (hero) {
+          var link = document.createElement('link')
+          link.rel = 'preload'; link.as = 'image'; link.media = hero[0]
+          link.setAttribute('imagesrcset', hero[1]); link.setAttribute('imagesizes', hero[2]); link.setAttribute('fetchpriority', 'high')
+          document.head.appendChild(link)
+        })
+        if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          document.documentElement.classList.add('hero-pending')
+          setTimeout(function () { document.documentElement.classList.remove('hero-pending') }, 2500)
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript><p style="padding:24px;font-family:sans-serif">This ABC Group Uganda concept is interactive and needs JavaScript. The official website is abcgroupuganda.com.</p></noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
